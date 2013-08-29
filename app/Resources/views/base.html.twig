@@ -2,11 +2,22 @@
 <html>
     <head>
         <meta charset="UTF-8" />
-        <title>{% block title %}Welcome!{% endblock %}</title>
+        <title>Coachy{% if page_title is defined %} &bull; {{ page_title }} {% endif %}</title>
         {% block stylesheets %}{% endblock %}
         <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
     </head>
     <body>
+
+        <ul>
+            <li><a href="{{ path('coachy_app_dashboard') }}">Dashboard</a></li>
+            <li><a href="{{ path('coachy_app_teams') }}">Ploegen</a></li>
+            <li><a href="{{ path('coachy_app_players') }}">Spelers</a></li>
+            <li><a href="{{ path('coachy_app_staff') }}">Staff</a></li>
+            <li><a href="{{ path('coachy_app_calendar') }}">Kalender</a></li>
+            <li><a href="{{ path('coachy_app_infirmary') }}">Ziekenboeg</a></li>
+            <li><a href="{{ path('coachy_app_reports') }}">Verslagen</a></li>
+        </ul>
+
         {% block body %}{% endblock %}
         {% block javascripts %}{% endblock %}
     </body>

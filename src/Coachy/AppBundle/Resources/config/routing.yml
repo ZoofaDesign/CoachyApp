@@ -1,0 +1,27 @@
+coachy_app_dashboard:
+    pattern:  /
+    defaults: { _controller: CoachyAppBundle:Default:index }
+
+coachy_app_players:
+    pattern:  /players/
+    defaults: { _controller: CoachyAppBundle:Players:index }
+
+coachy_app_teams:
+    pattern:  /teams/
+    defaults: { _controller: CoachyAppBundle:Teams:index }
+
+coachy_app_staff:
+    pattern:  /staff/
+    defaults: { _controller: CoachyAppBundle:Staff:index }
+
+coachy_app_calendar:
+    pattern:  /calendar/
+    defaults: { _controller: CoachyAppBundle:Calendar:index }
+
+coachy_app_infirmary:
+    pattern:  /infirmary/
+    defaults: { _controller: CoachyAppBundle:Infirmary::index }
+
+coachy_app_reports:
+    pattern:  /reports/
+    defaults: { _controller: CoachyAppBundle:Reports:index }

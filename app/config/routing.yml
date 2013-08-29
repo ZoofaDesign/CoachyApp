@@ -1,0 +1,8 @@
+coachy_admin:
+    resource: "@CoachyAdminBundle/Resources/config/routing.yml"
+    prefix:   /
+
+coachy_app:
+    resource: "@CoachyAppBundle/Resources/config/routing.yml"
+    prefix:   /
+
