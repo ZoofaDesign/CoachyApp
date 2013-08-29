@@ -1,0 +1,15 @@
+<?php
+
+namespace Coachy\AppBundle\Controller;
+
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+
+class CalendarController extends Controller {
+
+    public function indexAction() {
+    
+        return $this->render('CoachyAppBundle:Calendar:index.html.twig');
+    
+    }
+
+}
