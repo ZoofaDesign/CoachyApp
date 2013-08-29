@@ -1,0 +1,7 @@
+parameters:
+#    coachy_app.example.class: Coachy\AppBundle\Example
+
+services:
+#    coachy_app.example:
+#        class: %coachy_app.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
