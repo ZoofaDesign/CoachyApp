@@ -151,12 +151,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/collections.git",
-                "reference": "623caf42551b416460df786154d89bc50e3d1798"
+                "reference": "bcb53776a096a0c64579cc8d8ec0db62f1109fbc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/collections/zipball/623caf42551b416460df786154d89bc50e3d1798",
-                "reference": "623caf42551b416460df786154d89bc50e3d1798",
+                "url": "https://api.github.com/repos/doctrine/collections/zipball/bcb53776a096a0c64579cc8d8ec0db62f1109fbc",
+                "reference": "bcb53776a096a0c64579cc8d8ec0db62f1109fbc",
                 "shasum": ""
             },
             "require": {
@@ -210,7 +210,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2013-07-23 08:27:26"
+            "time": "2013-08-29 16:56:45"
         },
         {
             "name": "doctrine/common",
@@ -269,7 +269,7 @@
                     "email": "kontakt@beberlei.de"
                 },
                 {
-                    "name": "Johannes Schmitt",
+                    "name": "Johannes M. Schmitt",
                     "email": "schmittjoh@gmail.com",
                     "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
@@ -471,9 +471,9 @@
                     "email": "kontakt@beberlei.de"
                 },
                 {
-                    "name": "Johannes Schmitt",
+                    "name": "Johannes M. Schmitt",
                     "email": "schmittjoh@gmail.com",
-                    "homepage": "https://github.com/schmittjoh",
+                    "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
                 }
             ],
@@ -621,12 +621,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Incenteev/ParameterHandler.git",
-                "reference": "548ea586258845b68e8142b0e3f0a7dbac2e6f49"
+                "reference": "bc06242a63298affc72d2089f93d8986a6217c4c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Incenteev/ParameterHandler/zipball/548ea586258845b68e8142b0e3f0a7dbac2e6f49",
-                "reference": "548ea586258845b68e8142b0e3f0a7dbac2e6f49",
+                "url": "https://api.github.com/repos/Incenteev/ParameterHandler/zipball/bc06242a63298affc72d2089f93d8986a6217c4c",
+                "reference": "bc06242a63298affc72d2089f93d8986a6217c4c",
                 "shasum": ""
             },
             "require": {
@@ -664,7 +664,7 @@
             "keywords": [
                 "parameters management"
             ],
-            "time": "2013-08-27 09:48:45"
+            "time": "2013-09-03 08:29:03"
         },
         {
             "name": "jdorn/sql-formatter",
@@ -672,12 +672,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jdorn/sql-formatter.git",
-                "reference": "bccca26bfe75b30aba71c2f734e9f9dd854a85f6"
+                "reference": "7045fde3163d5a4ea6ec32e409a7dcf00779e204"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jdorn/sql-formatter/zipball/bccca26bfe75b30aba71c2f734e9f9dd854a85f6",
-                "reference": "bccca26bfe75b30aba71c2f734e9f9dd854a85f6",
+                "url": "https://api.github.com/repos/jdorn/sql-formatter/zipball/7045fde3163d5a4ea6ec32e409a7dcf00779e204",
+                "reference": "7045fde3163d5a4ea6ec32e409a7dcf00779e204",
                 "shasum": ""
             },
             "require": {
@@ -714,7 +714,7 @@
                 "highlight",
                 "sql"
             ],
-            "time": "2013-07-11 13:51:14"
+            "time": "2013-09-02 17:19:28"
         },
         {
             "name": "kriswallsmith/assetic",
@@ -722,12 +722,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kriswallsmith/assetic.git",
-                "reference": "735cffd3982c6e8cdebe292d5db39d077f65890f"
+                "reference": "1d671c54f147ece319642132330927672b6190a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kriswallsmith/assetic/zipball/735cffd3982c6e8cdebe292d5db39d077f65890f",
-                "reference": "735cffd3982c6e8cdebe292d5db39d077f65890f",
+                "url": "https://api.github.com/repos/kriswallsmith/assetic/zipball/1d671c54f147ece319642132330927672b6190a7",
+                "reference": "1d671c54f147ece319642132330927672b6190a7",
                 "shasum": ""
             },
             "require": {
@@ -785,7 +785,7 @@
                 "compression",
                 "minification"
             ],
-            "time": "2013-07-19 00:03:27"
+            "time": "2013-09-03 12:44:05"
         },
         {
             "name": "monolog/monolog",
@@ -793,12 +793,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "933f7e26beb19ce15d97031a3fdd21d8bd83a3d3"
+                "reference": "1518320bec1f1583a0c514491528d171501dc781"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/933f7e26beb19ce15d97031a3fdd21d8bd83a3d3",
-                "reference": "933f7e26beb19ce15d97031a3fdd21d8bd83a3d3",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/1518320bec1f1583a0c514491528d171501dc781",
+                "reference": "1518320bec1f1583a0c514491528d171501dc781",
                 "shasum": ""
             },
             "require": {
@@ -847,7 +847,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2013-08-26 09:42:58"
+            "time": "2013-09-02 10:24:25"
         },
         {
             "name": "psr/log",
@@ -1030,16 +1030,16 @@
         },
         {
             "name": "swiftmailer/swiftmailer",
-            "version": "v5.0.1",
+            "version": "v5.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/swiftmailer/swiftmailer.git",
-                "reference": "619aceb969f1e8759edc28fb22f9b64b3bddbc1e"
+                "reference": "f3917ecef35a4e4d98b303eb9fee463bc983f379"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/619aceb969f1e8759edc28fb22f9b64b3bddbc1e",
-                "reference": "619aceb969f1e8759edc28fb22f9b64b3bddbc1e",
+                "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/f3917ecef35a4e4d98b303eb9fee463bc983f379",
+                "reference": "f3917ecef35a4e4d98b303eb9fee463bc983f379",
                 "shasum": ""
             },
             "require": {
@@ -1075,7 +1075,7 @@
                 "mail",
                 "mailer"
             ],
-            "time": "2013-06-17 13:32:32"
+            "time": "2013-08-30 12:35:21"
         },
         {
             "name": "symfony/assetic-bundle",
@@ -1306,12 +1306,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "196227bd83f2b1593756903be9de5f94e8b07681"
+                "reference": "17f4a3dd10027ab9ae82be1273aa63cb0f048f57"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/196227bd83f2b1593756903be9de5f94e8b07681",
-                "reference": "196227bd83f2b1593756903be9de5f94e8b07681",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/17f4a3dd10027ab9ae82be1273aa63cb0f048f57",
+                "reference": "17f4a3dd10027ab9ae82be1273aa63cb0f048f57",
                 "shasum": ""
             },
             "require": {
@@ -1406,7 +1406,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2013-08-27 13:39:19"
+            "time": "2013-09-05 11:25:56"
         },
         {
             "name": "twig/extensions",
@@ -1461,12 +1461,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fabpot/Twig.git",
-                "reference": "3db6b6aeb9442abf85d2a9f6d5c3ae3e07398597"
+                "reference": "16008174253c873ccf5b49f08874f949a467308d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fabpot/Twig/zipball/3db6b6aeb9442abf85d2a9f6d5c3ae3e07398597",
-                "reference": "3db6b6aeb9442abf85d2a9f6d5c3ae3e07398597",
+                "url": "https://api.github.com/repos/fabpot/Twig/zipball/16008174253c873ccf5b49f08874f949a467308d",
+                "reference": "16008174253c873ccf5b49f08874f949a467308d",
                 "shasum": ""
             },
             "require": {
@@ -1502,7 +1502,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2013-08-28 06:01:53"
+            "time": "2013-09-06 10:25:58"
         }
     ],
     "packages-dev": [

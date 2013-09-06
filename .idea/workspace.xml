@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8a7b5ff-8892-4e10-a99d-d17bf4024d80" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/0bc941adfa74495addbae9ede6ba796304caba67#checkAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/0bc941adfa74495addbae9ede6ba796304caba67#stepAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/0bc941adfa74495addbae9ede6ba796304caba67.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/43b555f9eb0fa2504aebdf7dc2e143b0f703ed31#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/43b555f9eb0fa2504aebdf7dc2e143b0f703ed31.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/44f8b045264e5f7fb0f077b736262f1b1da52fac#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/44f8b045264e5f7fb0f077b736262f1b1da52fac.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/59fd5a242afd82b90a6ceb5e74a56292751b5ff4#urlRedirectAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/59fd5a242afd82b90a6ceb5e74a56292751b5ff4.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6e174c3031459c92fa8bf67008ca3c346a35d77c#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6e174c3031459c92fa8bf67008ca3c346a35d77c.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/74cca12c70e8100dedd0c1176a67c0438c52706d#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/74cca12c70e8100dedd0c1176a67c0438c52706d.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c6054e532fff545d82cdcf94d794fefaaff73b6a#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c6054e532fff545d82cdcf94d794fefaaff73b6a.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/fd00a72bac5a6671eb5a4f25690cee04358a9015#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/fd00a72bac5a6671eb5a4f25690cee04358a9015.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/00/4d/3d4d00" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/00/db/cedb00" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/03/db/f5db03" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/03/e2/b5e203" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/05/45/654505" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/06/22/b62206" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/07/09/170907" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/07/34/b23407" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/07/cf/88cf07" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0a/21/32210a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0a/e7/8be70a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0d/88/15880d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0e/1e/ba1e0e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0e/6b/1b6b0e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0f/59/c3590f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/0f/66/39660f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/12/34/073412" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/14/34/f03414" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/15/8f/e78f15" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/17/06/e50617" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/17/56/3f5617" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/18/9f/fb9f18" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/18/de/89de18" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/19/7a/947a19" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/19/b3/66b319" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/19/fb/4cfb19" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1b/e0/a0e01b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1c/d7/d2d71c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1e/0f/680f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1e/88/c6881e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1e/ea/5aea1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/1f/2c/692c1f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/20/5c/495c20" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/21/3d/e53d21" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/22/5d/415d22" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/22/f6/8af622" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/26/63/8f6326" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/27/c8/79c827" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/28/80/a68028" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/29/e4/26e429" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2b/11/9e112b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2b/64/b7642b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2b/7f/c97f2b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2c/01/49012c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2f/06/81062f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/2f/a3/a5a32f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/30/f5/a6f530" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/31/16/781631" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/34/7a/af7a34" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/25/a02535" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/66/d46635" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/82/0b8235" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/35/e6/65e635" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/36/31/423136" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/36/d0/a2d036" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/38/d1/cad138" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3b/75/57753b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3b/f1/12f13b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3d/1b/081b3d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/3e/1c/f91c3e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/43/76/6b7643" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/43/a9/65a943" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/43/e1/6be143" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/44/95/659544" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/44/a7/d9a744" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/46/19/c21946" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/48/60/f26048" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/4a/ea/24ea4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/4c/52/9f524c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/4d/d3/99d34d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/4f/c8/f5c84f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/50/fd/31fd50" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/51/6c/a86c51" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/52/9f/3b9f52" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/53/7b/a17b53" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/53/9d/339d53" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/55/23/1b2355" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/58/46/ed4658" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/58/6b/4d6b58" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5a/36/2b365a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5b/8a/768a5b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5c/88/6c885c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5d/53/28535d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/5d/63/7a635d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/61/27/0d2761" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/61/41/db4161" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/61/65/f66561" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/61/8b/988b61" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/62/35/103562" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/63/91/bb9163" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/64/4d/d24d64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/65/61/c66165" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/68/22/932268" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/68/cb/84cb68" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/69/63/7e6369" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6a/0e/9c0e6a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6a/41/05416a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6a/be/a3be6a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6c/80/3c806c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6c/bc/9fbc6c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6c/f0/e2f06c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6e/a8/bfa86e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6f/0f/c50f6f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/6f/13/2b136f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/70/bc/f5bc70" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/70/c5/94c570" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/73/bd/67bd73" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/74/aa/7eaa74" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/74/ba/31ba74" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/75/4f/be4f75" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/76/73/ed7376" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/78/82/9c8278" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/79/fa/46fa79" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7a/e3/3be37a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7b/7c/667c7b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7b/cb/86cb7b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7c/fd/7dfd7c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7d/ad/83ad7d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7e/93/95937e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/7f/de/98de7f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/81/95/cf9581" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/81/bb/6cbb81" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/82/27/3b2782" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/82/33/353382" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/82/3e/923e82" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/84/52/bc5284" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8b/8b/0d8b8b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8d/22/0f228d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8d/d4/20d48d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/8e/d1/fdd18e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/90/dc/2edc90" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/97/1d/9f1d97" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/97/e8/c4e897" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/98/1c/ed1c98" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/98/8d/f98d98" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/99/9c/cd9c99" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9a/ff/14ff9a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9b/ad/52ad9b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9c/4d/aa4d9c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9c/ed/bced9c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9c/f2/65f29c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9e/bd/afbd9e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a3/31/4931a3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a3/9b/539ba3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a6/70/4770a6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a7/d2/3cd2a7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a8/1d/891da8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/a8/5c/825ca8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ab/02/1202ab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ab/e8/eae8ab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ac/b6/2bb6ac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ad/46/0846ad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ad/47/9147ad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ad/bd/aebdad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ad/c6/e8c6ad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ae/6d/8b6dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b1/29/4129b1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b2/d2/d4d2b2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b4/68/e968b4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b7/42/6c42b7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b8/f4/e7f4b8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/bc/e1/ede1bc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/bd/8f/4c8fbd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c0/24/0724c0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c0/a1/1ba1c0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c0/ae/6faec0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c1/0f/fe0fc1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c3/b0/ceb0c3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c5/64/0264c5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c5/74/0b74c5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c5/be/19bec5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c9/7b/a97bc9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cb/85/4585cb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cc/aa/08aacc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cd/44/3044cd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cd/7d/437dcd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cd/df/eedfcd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ce/62/fa62ce" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d2/08/4208d2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d3/79/2c79d3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d4/2c/fc2cd4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d6/35/0235d6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d6/56/3056d6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d7/94/5694d7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d8/41/7841d8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d8/a8/fca8d8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/da/04/cf04da" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/da/ed/9bedda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/db/cc/daccdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/dc/8b/e08bdc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e0/05/8805e0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e2/03/4103e2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e4/a0/1ba0e4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e5/ea/aceae5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e6/29/c129e6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e6/71/8e71e6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e6/d2/d7d2e6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e8/48/f348e8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/e9/27/3727e9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ed/71/ac71ed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ee/1e/741eee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/ee/4b/2d4bee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f0/03/f403f0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f0/7a/ee7af0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f0/bd/64bdf0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f1/73/2373f1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f3/1d/1c1df3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f3/5e/405ef3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f5/c4/94c4f5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f6/4b/784bf6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f6/c4/e7c4f6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f8/e5/e7e5f8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f9/c8/a7c8f9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f9/ce/17cef9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/fa/88/c088fa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/sessions/sess_2b62c1ef997bf1fe846fa229d9b6d5b4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/sessions/sess_55990c8646720ff4c2d71a9eaf5e8cdc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/sessions/sess_a8582681aee8d775a258a50d602c0241" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/0f/51/0135614ec8916f0f096af188256f73a65cc215dda0d5b76762d739c4687d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/14/6e/fa2485e6d1104d60a0f65c9f622245e69703b4700a4fb7ce12c5d29ed92f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/16/2d/6c722c3e7585499d7b81066dfc9cdf319747696bdc02aead4d00b8671186.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1d/90/3c61592a8ac8dced1cff42163fb02da4bb20eb1e4b0000b22754f080206c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/1f/74/cc6680f6b67dc347af7ab6187340604bbacd32ca4185015836530dc2a459.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/23/fa/1e68896be4398bf31adfaa26e7ecd2a3c32f260ca7881a2ef1186bdccf40.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/24/b4/f01208501f4e4076d9cb2af267597cf417ac541f2ca0c191d60645de0d73.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/2c/18/69ff257097af7019302c141a84cef8ba20379e9fc44aceb156a561296f28.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/36/40/dd039220dc36519bf1225bba93f4136f4e71db56ca8b71376e092952367b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/39/dd/e72454a8f2591e27098e761b26080360549bad1b318654a74e9c9ac749d5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/43/c9/e8ea1c30aed40d0dca0087ef84c4c8fbbda2aeaba779f6521f317c322a82.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/46/5b/6dfc43e360c31c86d9df9e2caebe1ae048fc38cc29dad4403c0e0829f27b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/53/5b/eaaf9deced9aba62befda9e30f9c1b6b96b14c20f701bf526ea1617e82ab.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/57/95/97ac17591a4c708ffa5f38040fcb7e68a27aeeacbd9cce639d1abc8d59cd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/5d/a5/c2d58955906c4b2cee533519a657063940bec2e6e80e68769b45d31e2351.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/64/f9/5e433da8d47d26cde12154a270f8baf3d8fe5956209352fd4bdb581bb28d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/6c/2f/d82fdc945faf58821b386976589b42234e7ddecc76df780ebd4301a798b4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/6e/7b/ff42af46b7845151edab26f2007b05fa1d874026f8a7e486df0abfa240b8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/70/6a/97ddb2abefbe6961e36607dbbfef01f571308f09c91fd59571a60d1899ad.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/72/11/77f6e1afa6049e063c5008b2a6bc1fd9464993096e941857ede5f555fe66.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/72/27/2678e406fa0e0a165c257392d30cb8aad5cfc84962428c5fc54f62fee87b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/7f/b2/c27416a9c380ad964f756ef6478b78e59813ccd28fca2265fab073b62f8c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/81/b7/0461a57be827e23a5f3843ede6d904b72250f2d50baecaacece722dae37d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/83/3e/1b6a929112adcf931b2412e8a72c687eca31eda84579451ee9f06b2792eb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/83/8f/ee8204f97442ed7b32fa2ded04b8b3bc3e988226dff778b37c2d3553a166.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/85/42/3202ab28781e7568d41b02709705ab07c5ecb423b1b8853006cfc14ad580.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8f/8a/76de509355384954b23b2fec95c689cce32a8457e418f66bad947d1249e6.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/96/e1/cdf1b043fbfa965f27ab3b1fd292e0e8f4ef44b1b18a7328fbcca7f4fabd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/99/48/ff6f859fc13a2d7e10b84d3285c9e81c14319c7f48a063a7ec1e53e70739.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/9a/c9/c68205330d3fb22b6b62ecc7d960bdaecaa45384b0cc7af1c7a71d47ca2b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/9f/32/860b4446a49b997d1d8c3988c666a8a85619b1ebb81733907952c3e98cc4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a6/3b/e6b64487fa1b9322d41062137631f4172e06eecba3a8ddf298292dc9d3dd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a8/db/dd38500079a97c0d4b6662abfe7135161ee86d8151cfcd849b5ca71ac6b3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/ac/6b/7f2c96a1ba043b94a32eda6e4fa9b6201968741f65f4dc175ca0d26abb00.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/b4/bc/5402588416cade23e243ff0a32cd4125039f693e05aea5c3ee19f4f4fab1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/cb/ca/a8c9ea68af5ad2e171b37812f75f0b18d173ceee5878c56d0ab628e21498.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d2/f1/94a92e5a0afe1850dbb1f554626460fbc7bec2afb446891dc58f490fa31f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d4/68/d7ada9d903f8556971f2dcdca569c85a8dba9f2cff5d97adcdc7acb21831.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d5/1b/e93dba800ecbd44e8c051a927ba3939146e3b80727cc8b15903eec20b83b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e0/a5/04733098a910f3429048b1e8173002bddef41b51e6911c669ccd890a932c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e2/c7/8d5de10c6e25ab427c6f299ce6d6a7f771cb3881e6e2996a43da97fb234c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e7/0e/92a0e22b168c3d7f6edeff1e3b6a0e6d4e48510e6e6e2d37e2345f61a307.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/twig/f9/56/34ce09f2cf20e3d38fb8dd6e72387c2f985e2570591c41e09e24cf5f8126.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/AcmeDemoBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Controller/DemoController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Controller/SecuredController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Controller/WelcomeController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/DependencyInjection/AcmeDemoExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/EventListener/ControllerListener.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Form/ContactType.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/config/routing.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/config/services.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/blue-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/field-background.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/welcome-configure.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/welcome-demo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/public/images/welcome-quick-tour.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Demo/contact.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Demo/hello.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Demo/index.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Secured/hello.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Secured/helloadmin.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Secured/layout.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Secured/login.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/Welcome/index.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/layout.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Tests/Controller/DemoControllerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Acme/DemoBundle/Twig/Extension/DemoExtension.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.phar" afterPath="$PROJECT_DIR$/composer.phar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/.gitignore" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/CHANGES" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/CHANGES" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/VERSION" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/VERSION" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bootstrap.php.cache" afterPath="$PROJECT_DIR$/app/bootstrap.php.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php" afterPath="$PROJECT_DIR$/app/cache/dev/classes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
+    </list>
+    <ignored path="CoachyApp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="c8a7b5ff-8892-4e10-a99d-d17bf4024d80" time="1378391277769" ignored="false" />
+    <file path="/gitignore" changelist="c8a7b5ff-8892-4e10-a99d-d17bf4024d80" time="1378392428494" ignored="false" />
+    <file path="/.gitignore" changelist="c8a7b5ff-8892-4e10-a99d-d17bf4024d80" time="1378480179219" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CoachyApp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="13" selection-start="168" selection-end="168" vertical-scroll-proportion="0.19501625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing_dev.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="10" selection-start="313" selection-end="313" vertical-scroll-proportion="-5.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppKernel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="922" selection-end="922" vertical-scroll-proportion="-13.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gitignore" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="9" />
+    <option name="width" value="1213" />
+    <option name="height" value="1071" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bundles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.textmate.bundles" />
+    <property name="FullScreen" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8a7b5ff-8892-4e10-a99d-d17bf4024d80" name="Default" comment="" />
+      <created>1378390756731</created>
+      <updated>1378390756731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="9" width="1213" height="1071" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21336761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="CoachyApp" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="CoachyApp" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="70" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.3705693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="313" selection-end="313" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="922" selection-end="922" vertical-scroll-proportion="-13.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="168" selection-end="168" vertical-scroll-proportion="0.19501625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

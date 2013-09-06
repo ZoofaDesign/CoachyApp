@@ -1905,19 +1905,24 @@ unset($this->services[$id]);
 public function has($id)
 {
 $id = strtolower($id);
-return array_key_exists($id, $this->services)
-|| array_key_exists($id, $this->aliases)
+return isset($this->services[$id])
+|| array_key_exists($id, $this->services)
+|| isset($this->aliases[$id])
 || method_exists($this,'get'.strtr($id, array('_'=>'','.'=>'_')).'Service')
 ;
 }
 public function get($id, $invalidBehavior = self::EXCEPTION_ON_INVALID_REFERENCE)
 {
+foreach (array(false, true) as $strtolower) {
+if ($strtolower) {
 $id = strtolower($id);
+}
 if (isset($this->aliases[$id])) {
 $id = $this->aliases[$id];
 }
-if (array_key_exists($id, $this->services)) {
+if (isset($this->services[$id]) || array_key_exists($id, $this->services)) {
 return $this->services[$id];
+}
 }
 if (isset($this->loading[$id])) {
 throw new ServiceCircularReferenceException($id, array_keys($this->loading));
@@ -1959,7 +1964,8 @@ return $service;
 }
 public function initialized($id)
 {
-return array_key_exists(strtolower($id), $this->services);
+$id = strtolower($id);
+return isset($this->services[$id]) || array_key_exists($id, $this->services);
 }
 public function getServiceIds()
 {
@@ -2144,7 +2150,6 @@ protected $booted;
 protected $name;
 protected $startTime;
 protected $loadClassCache;
-protected $errorReportingLevel;
 const VERSION ='2.3.5-DEV';
 const VERSION_ID ='20305';
 const MAJOR_VERSION ='2';

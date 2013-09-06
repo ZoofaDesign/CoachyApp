@@ -1,64 +1,5 @@
 [
     {
-        "name": "doctrine/lexer",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/doctrine/lexer.git",
-            "reference": "bc0e1f0cc285127a38c6c8ea88bc5dba2fd53e94"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/doctrine/lexer/zipball/bc0e1f0cc285127a38c6c8ea88bc5dba2fd53e94",
-            "reference": "bc0e1f0cc285127a38c6c8ea88bc5dba2fd53e94",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.3.2"
-        },
-        "time": "2013-03-07 12:15:25",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.0.x-dev"
-            }
-        },
-        "installation-source": "source",
-        "autoload": {
-            "psr-0": {
-                "Doctrine\\Common\\Lexer\\": "lib/"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Guilherme Blanco",
-                "email": "guilhermeblanco@gmail.com",
-                "homepage": "http://www.instaclick.com"
-            },
-            {
-                "name": "Roman Borschel",
-                "email": "roman@code-factory.org"
-            },
-            {
-                "name": "Johannes Schmitt",
-                "email": "schmittjoh@gmail.com",
-                "homepage": "http://jmsyst.com",
-                "role": "Developer of wrapped JMSSerializerBundle"
-            }
-        ],
-        "description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.",
-        "homepage": "http://www.doctrine-project.org",
-        "keywords": [
-            "lexer",
-            "parser"
-        ]
-    },
-    {
         "name": "doctrine/annotations",
         "version": "v1.1.2",
         "version_normalized": "1.1.2.0",
@@ -129,75 +70,6 @@
             "annotations",
             "docblock",
             "parser"
-        ]
-    },
-    {
-        "name": "doctrine/collections",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/doctrine/collections.git",
-            "reference": "623caf42551b416460df786154d89bc50e3d1798"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/doctrine/collections/zipball/623caf42551b416460df786154d89bc50e3d1798",
-            "reference": "623caf42551b416460df786154d89bc50e3d1798",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.3.2"
-        },
-        "time": "2013-07-23 08:27:26",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.2.x-dev"
-            }
-        },
-        "installation-source": "source",
-        "autoload": {
-            "psr-0": {
-                "Doctrine\\Common\\Collections\\": "lib/"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Jonathan Wage",
-                "email": "jonwage@gmail.com",
-                "homepage": "http://www.jwage.com/"
-            },
-            {
-                "name": "Guilherme Blanco",
-                "email": "guilhermeblanco@gmail.com",
-                "homepage": "http://www.instaclick.com"
-            },
-            {
-                "name": "Roman Borschel",
-                "email": "roman@code-factory.org"
-            },
-            {
-                "name": "Benjamin Eberlei",
-                "email": "kontakt@beberlei.de"
-            },
-            {
-                "name": "Johannes Schmitt",
-                "email": "schmittjoh@gmail.com",
-                "homepage": "http://jmsyst.com",
-                "role": "Developer of wrapped JMSSerializerBundle"
-            }
-        ],
-        "description": "Collections Abstraction library",
-        "homepage": "http://www.doctrine-project.org",
-        "keywords": [
-            "array",
-            "collections",
-            "iterator"
         ]
     },
     {
@@ -272,6 +144,282 @@
         ]
     },
     {
+        "name": "psr/log",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-fig/log.git",
+            "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-fig/log/zipball/fe0936ee26643249e916849d48e3a51d5f5e278b",
+            "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b",
+            "shasum": ""
+        },
+        "time": "2012-12-21 11:40:51",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Psr\\Log\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "PHP-FIG",
+                "homepage": "http://www.php-fig.org/"
+            }
+        ],
+        "description": "Common interface for logging libraries",
+        "keywords": [
+            "log",
+            "psr",
+            "psr-3"
+        ]
+    },
+    {
+        "name": "symfony/swiftmailer-bundle",
+        "version": "v2.3.4",
+        "version_normalized": "2.3.4.0",
+        "target-dir": "Symfony/Bundle/SwiftmailerBundle",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/SwiftmailerBundle.git",
+            "reference": "f5e5d12629c26a835c7aa1d74e2e041486b92d93"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/SwiftmailerBundle/zipball/f5e5d12629c26a835c7aa1d74e2e041486b92d93",
+            "reference": "f5e5d12629c26a835c7aa1d74e2e041486b92d93",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.2",
+            "swiftmailer/swiftmailer": ">=4.2.0,<5.1-dev",
+            "symfony/swiftmailer-bridge": "~2.1"
+        },
+        "require-dev": {
+            "symfony/config": "~2.1",
+            "symfony/dependency-injection": "~2.1",
+            "symfony/http-kernel": "~2.1",
+            "symfony/yaml": "~2.1"
+        },
+        "time": "2013-08-22 13:32:58",
+        "type": "symfony-bundle",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.2-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Symfony\\Bundle\\SwiftmailerBundle": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "http://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony SwiftmailerBundle",
+        "homepage": "http://symfony.com"
+    },
+    {
+        "name": "swiftmailer/swiftmailer",
+        "version": "v5.0.2",
+        "version_normalized": "5.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/swiftmailer/swiftmailer.git",
+            "reference": "f3917ecef35a4e4d98b303eb9fee463bc983f379"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/f3917ecef35a4e4d98b303eb9fee463bc983f379",
+            "reference": "f3917ecef35a4e4d98b303eb9fee463bc983f379",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.4"
+        },
+        "time": "2013-08-30 12:35:21",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "5.1-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "lib/swift_required.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Chris Corbyn"
+            }
+        ],
+        "description": "Swiftmailer, free feature-rich PHP mailer",
+        "homepage": "http://swiftmailer.org",
+        "keywords": [
+            "mail",
+            "mailer"
+        ]
+    },
+    {
+        "name": "doctrine/lexer",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/doctrine/lexer.git",
+            "reference": "bc0e1f0cc285127a38c6c8ea88bc5dba2fd53e94"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/doctrine/lexer/zipball/bc0e1f0cc285127a38c6c8ea88bc5dba2fd53e94",
+            "reference": "bc0e1f0cc285127a38c6c8ea88bc5dba2fd53e94",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.2"
+        },
+        "time": "2013-03-07 12:15:25",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Doctrine\\Common\\Lexer\\": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Guilherme Blanco",
+                "email": "guilhermeblanco@gmail.com",
+                "homepage": "http://www.instaclick.com"
+            },
+            {
+                "name": "Roman Borschel",
+                "email": "roman@code-factory.org"
+            },
+            {
+                "name": "Johannes Schmitt",
+                "email": "schmittjoh@gmail.com",
+                "homepage": "http://jmsyst.com",
+                "role": "Developer of wrapped JMSSerializerBundle"
+            }
+        ],
+        "description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.",
+        "homepage": "http://www.doctrine-project.org",
+        "keywords": [
+            "lexer",
+            "parser"
+        ]
+    },
+    {
+        "name": "doctrine/collections",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/doctrine/collections.git",
+            "reference": "bcb53776a096a0c64579cc8d8ec0db62f1109fbc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/doctrine/collections/zipball/bcb53776a096a0c64579cc8d8ec0db62f1109fbc",
+            "reference": "bcb53776a096a0c64579cc8d8ec0db62f1109fbc",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.2"
+        },
+        "time": "2013-08-29 16:56:45",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.2.x-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Doctrine\\Common\\Collections\\": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jonathan Wage",
+                "email": "jonwage@gmail.com",
+                "homepage": "http://www.jwage.com/"
+            },
+            {
+                "name": "Guilherme Blanco",
+                "email": "guilhermeblanco@gmail.com",
+                "homepage": "http://www.instaclick.com"
+            },
+            {
+                "name": "Roman Borschel",
+                "email": "roman@code-factory.org"
+            },
+            {
+                "name": "Benjamin Eberlei",
+                "email": "kontakt@beberlei.de"
+            },
+            {
+                "name": "Johannes Schmitt",
+                "email": "schmittjoh@gmail.com",
+                "homepage": "http://jmsyst.com",
+                "role": "Developer of wrapped JMSSerializerBundle"
+            }
+        ],
+        "description": "Collections Abstraction library",
+        "homepage": "http://www.doctrine-project.org",
+        "keywords": [
+            "array",
+            "collections",
+            "iterator"
+        ]
+    },
+    {
         "name": "doctrine/inflector",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
@@ -326,9 +474,9 @@
                 "email": "kontakt@beberlei.de"
             },
             {
-                "name": "Johannes Schmitt",
+                "name": "Johannes M. Schmitt",
                 "email": "schmittjoh@gmail.com",
-                "homepage": "https://github.com/schmittjoh",
+                "homepage": "http://jmsyst.com",
                 "role": "Developer of wrapped JMSSerializerBundle"
             }
         ],
@@ -401,7 +549,7 @@
                 "email": "kontakt@beberlei.de"
             },
             {
-                "name": "Johannes Schmitt",
+                "name": "Johannes M. Schmitt",
                 "email": "schmittjoh@gmail.com",
                 "homepage": "http://jmsyst.com",
                 "role": "Developer of wrapped JMSSerializerBundle"
@@ -483,64 +631,24 @@
         ]
     },
     {
-        "name": "psr/log",
-        "version": "1.0.0",
-        "version_normalized": "1.0.0.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/php-fig/log.git",
-            "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/php-fig/log/zipball/fe0936ee26643249e916849d48e3a51d5f5e278b",
-            "reference": "fe0936ee26643249e916849d48e3a51d5f5e278b",
-            "shasum": ""
-        },
-        "time": "2012-12-21 11:40:51",
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-0": {
-                "Psr\\Log\\": ""
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "PHP-FIG",
-                "homepage": "http://www.php-fig.org/"
-            }
-        ],
-        "description": "Common interface for logging libraries",
-        "keywords": [
-            "log",
-            "psr",
-            "psr-3"
-        ]
-    },
-    {
         "name": "twig/twig",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
         "source": {
             "type": "git",
             "url": "https://github.com/fabpot/Twig.git",
-            "reference": "3db6b6aeb9442abf85d2a9f6d5c3ae3e07398597"
+            "reference": "16008174253c873ccf5b49f08874f949a467308d"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/fabpot/Twig/zipball/3db6b6aeb9442abf85d2a9f6d5c3ae3e07398597",
-            "reference": "3db6b6aeb9442abf85d2a9f6d5c3ae3e07398597",
+            "url": "https://api.github.com/repos/fabpot/Twig/zipball/16008174253c873ccf5b49f08874f949a467308d",
+            "reference": "16008174253c873ccf5b49f08874f949a467308d",
             "shasum": ""
         },
         "require": {
             "php": ">=5.2.4"
         },
-        "time": "2013-08-28 06:01:53",
+        "time": "2013-09-06 10:25:58",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -580,12 +688,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/symfony.git",
-            "reference": "196227bd83f2b1593756903be9de5f94e8b07681"
+            "reference": "17f4a3dd10027ab9ae82be1273aa63cb0f048f57"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/symfony/zipball/196227bd83f2b1593756903be9de5f94e8b07681",
-            "reference": "196227bd83f2b1593756903be9de5f94e8b07681",
+            "url": "https://api.github.com/repos/symfony/symfony/zipball/17f4a3dd10027ab9ae82be1273aa63cb0f048f57",
+            "reference": "17f4a3dd10027ab9ae82be1273aa63cb0f048f57",
             "shasum": ""
         },
         "require": {
@@ -643,7 +751,7 @@
             "ocramius/proxy-manager": ">=0.3.1,<0.4-dev",
             "propel/propel1": "1.6.*"
         },
-        "time": "2013-08-27 13:39:19",
+        "time": "2013-09-05 11:25:56",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -811,12 +919,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/jdorn/sql-formatter.git",
-            "reference": "bccca26bfe75b30aba71c2f734e9f9dd854a85f6"
+            "reference": "7045fde3163d5a4ea6ec32e409a7dcf00779e204"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/jdorn/sql-formatter/zipball/bccca26bfe75b30aba71c2f734e9f9dd854a85f6",
-            "reference": "bccca26bfe75b30aba71c2f734e9f9dd854a85f6",
+            "url": "https://api.github.com/repos/jdorn/sql-formatter/zipball/7045fde3163d5a4ea6ec32e409a7dcf00779e204",
+            "reference": "7045fde3163d5a4ea6ec32e409a7dcf00779e204",
             "shasum": ""
         },
         "require": {
@@ -825,7 +933,7 @@
         "require-dev": {
             "phpunit/phpunit": "3.7.*"
         },
-        "time": "2013-07-11 13:51:14",
+        "time": "2013-09-02 17:19:28",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -984,12 +1092,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/kriswallsmith/assetic.git",
-            "reference": "735cffd3982c6e8cdebe292d5db39d077f65890f"
+            "reference": "1d671c54f147ece319642132330927672b6190a7"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/kriswallsmith/assetic/zipball/735cffd3982c6e8cdebe292d5db39d077f65890f",
-            "reference": "735cffd3982c6e8cdebe292d5db39d077f65890f",
+            "url": "https://api.github.com/repos/kriswallsmith/assetic/zipball/1d671c54f147ece319642132330927672b6190a7",
+            "reference": "1d671c54f147ece319642132330927672b6190a7",
             "shasum": ""
         },
         "require": {
@@ -1015,7 +1123,7 @@
             "ptachoire/cssembed": "Assetic provides the integration with phpcssembed to embed data uris",
             "twig/twig": "Assetic provides the integration with the Twig templating engine"
         },
-        "time": "2013-07-19 00:03:27",
+        "time": "2013-09-03 12:44:05",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1116,126 +1224,18 @@
         ]
     },
     {
-        "name": "swiftmailer/swiftmailer",
-        "version": "v5.0.1",
-        "version_normalized": "5.0.1.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/swiftmailer/swiftmailer.git",
-            "reference": "619aceb969f1e8759edc28fb22f9b64b3bddbc1e"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/619aceb969f1e8759edc28fb22f9b64b3bddbc1e",
-            "reference": "619aceb969f1e8759edc28fb22f9b64b3bddbc1e",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.2.4"
-        },
-        "time": "2013-06-17 13:32:32",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "5.1-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "files": [
-                "lib/swift_required.php"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Fabien Potencier",
-                "email": "fabien@symfony.com"
-            },
-            {
-                "name": "Chris Corbyn"
-            }
-        ],
-        "description": "Swiftmailer, free feature-rich PHP mailer",
-        "homepage": "http://swiftmailer.org",
-        "keywords": [
-            "mail",
-            "mailer"
-        ]
-    },
-    {
-        "name": "symfony/swiftmailer-bundle",
-        "version": "v2.3.4",
-        "version_normalized": "2.3.4.0",
-        "target-dir": "Symfony/Bundle/SwiftmailerBundle",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/SwiftmailerBundle.git",
-            "reference": "f5e5d12629c26a835c7aa1d74e2e041486b92d93"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/SwiftmailerBundle/zipball/f5e5d12629c26a835c7aa1d74e2e041486b92d93",
-            "reference": "f5e5d12629c26a835c7aa1d74e2e041486b92d93",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.3.2",
-            "swiftmailer/swiftmailer": ">=4.2.0,<5.1-dev",
-            "symfony/swiftmailer-bridge": "~2.1"
-        },
-        "require-dev": {
-            "symfony/config": "~2.1",
-            "symfony/dependency-injection": "~2.1",
-            "symfony/http-kernel": "~2.1",
-            "symfony/yaml": "~2.1"
-        },
-        "time": "2013-08-22 13:32:58",
-        "type": "symfony-bundle",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "2.2-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-0": {
-                "Symfony\\Bundle\\SwiftmailerBundle": ""
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Fabien Potencier",
-                "email": "fabien@symfony.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "http://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony SwiftmailerBundle",
-        "homepage": "http://symfony.com"
-    },
-    {
         "name": "monolog/monolog",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
         "source": {
             "type": "git",
             "url": "https://github.com/Seldaek/monolog.git",
-            "reference": "933f7e26beb19ce15d97031a3fdd21d8bd83a3d3"
+            "reference": "1518320bec1f1583a0c514491528d171501dc781"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/933f7e26beb19ce15d97031a3fdd21d8bd83a3d3",
-            "reference": "933f7e26beb19ce15d97031a3fdd21d8bd83a3d3",
+            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/1518320bec1f1583a0c514491528d171501dc781",
+            "reference": "1518320bec1f1583a0c514491528d171501dc781",
             "shasum": ""
         },
         "require": {
@@ -1254,7 +1254,7 @@
             "mlehner/gelf-php": "Allow sending log messages to a GrayLog2 server",
             "raven/raven": "Allow sending log messages to a Sentry server"
         },
-        "time": "2013-08-26 09:42:58",
+        "time": "2013-09-02 10:24:25",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1502,12 +1502,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Incenteev/ParameterHandler.git",
-            "reference": "548ea586258845b68e8142b0e3f0a7dbac2e6f49"
+            "reference": "bc06242a63298affc72d2089f93d8986a6217c4c"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Incenteev/ParameterHandler/zipball/548ea586258845b68e8142b0e3f0a7dbac2e6f49",
-            "reference": "548ea586258845b68e8142b0e3f0a7dbac2e6f49",
+            "url": "https://api.github.com/repos/Incenteev/ParameterHandler/zipball/bc06242a63298affc72d2089f93d8986a6217c4c",
+            "reference": "bc06242a63298affc72d2089f93d8986a6217c4c",
             "shasum": ""
         },
         "require": {
@@ -1519,7 +1519,7 @@
             "phpspec/prophecy-phpunit": "~1.0",
             "symfony/filesystem": "~2.2"
         },
-        "time": "2013-08-27 09:48:45",
+        "time": "2013-09-03 08:29:03",
         "type": "library",
         "extra": {
             "branch-alias": {
